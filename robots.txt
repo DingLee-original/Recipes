@@ -1,4 +1,4 @@
 # not generated my Ai 
 User-agent: *
 Disalllow:
-Sitemap: https://subdomain.linearsearch.me/sitemap.xml
+Sitemap: https://linearsearch.me/sitemap.xml
